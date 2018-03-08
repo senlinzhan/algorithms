@@ -7,4 +7,6 @@ This is my exercise for leetcode.
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
 |1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/TwoSum/solution.cpp) | Easy |
-|1  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddTwoNumbers/solution.cpp) | Medium |
+|2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddTwoNumbers/solution.cpp) | Medium |
+|58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/[LengthofLastWord/solution.cpp) | Easy |
+|66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/PlusOne/solution.cpp) | Easy |
