@@ -17,5 +17,6 @@ This is my exercise for leetcode.
 |28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ImplementstrStr/solution.cpp) | Easy |
 |58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LengthofLastWord/solution.cpp) | Easy |
 |66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/PlusOne/solution.cpp) | Easy |
+|67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddBinary/solution.cpp) | Easy |
 |88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeSortedArray/solution.cpp) | Easy |
 |143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReorderList/solution.cpp) | Medium |
