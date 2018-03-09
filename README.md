@@ -11,6 +11,7 @@ This is my exercise for leetcode.
 |7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReverseInteger/solution.cpp) | Easy |
 |14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LongestCommonPrefix/solution.cpp) | Easy |
 |18  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RemoveNthNodeFromEndofList/solution.cpp) | Medium |
+|21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeTwoSortedLists/solution.cpp) | Medium |
 |24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SwapNodesinPairs/solution.cpp) | Medium |
 |26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RemoveDuplicatesfromSortedArray/solution.cpp) | Easy |
 |27  | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RemoveElement/solution.cpp) | Easy |
@@ -21,4 +22,5 @@ This is my exercise for leetcode.
 |88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeSortedArray/solution.cpp) | Easy |
 |100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SameTree/solution.cpp) | Easy |
 |101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SymmetricTree/solution.cpp) | Easy |
+|120 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/BalancedBinaryTree/solution.cpp) | Easy |
 |143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReorderList/solution.cpp) | Medium |
