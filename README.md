@@ -9,6 +9,7 @@ This is my exercise for leetcode.
 |1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/TwoSum/solution.cpp) | Easy |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddTwoNumbers/solution.cpp) | Medium |
 |7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReverseInteger/solution.cpp) | Easy |
+|8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/StringtoInteger/solution.cpp) | Medium |
 |14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LongestCommonPrefix/solution.cpp) | Easy |
 |18  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RemoveNthNodeFromEndofList/solution.cpp) | Medium |
 |21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeTwoSortedLists/solution.cpp) | Medium |
@@ -24,3 +25,4 @@ This is my exercise for leetcode.
 |101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SymmetricTree/solution.cpp) | Easy |
 |120 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/BalancedBinaryTree/solution.cpp) | Easy |
 |143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReorderList/solution.cpp) | Medium |
+|206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReverseLinkedList/solution.cpp) | Easy |
