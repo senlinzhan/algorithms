@@ -8,6 +8,7 @@ This is my exercise for leetcode.
 |---|---------|----------|------------|
 |1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/TwoSum/solution.cpp) | Easy |
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddTwoNumbers/solution.cpp) | Medium |
+|2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LongestSubstringWithoutRepeatingCharacters/solution.cpp) | Medium |
 |7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReverseInteger/solution.cpp) | Easy |
 |8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/StringtoInteger/solution.cpp) | Medium |
 |14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LongestCommonPrefix/solution.cpp) | Easy |
@@ -24,7 +25,8 @@ This is my exercise for leetcode.
 |88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeSortedArray/solution.cpp) | Easy |
 |100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SameTree/solution.cpp) | Easy |
 |101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SymmetricTree/solution.cpp) | Easy |
-|104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/Maximum Depth of Binary Tree/solution.cpp) | Easy |
+|104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MaximumDepthofBinaryTree/solution.cpp) | Easy |
+|111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MinimumDepthofBinaryTree/solution.cpp) | Easy |
 |120 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/BalancedBinaryTree/solution.cpp) | Easy |
 |141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LinkedListCycle/solution.cpp) | Easy |
 |143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ReorderList/solution.cpp) | Medium |
