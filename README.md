@@ -23,12 +23,15 @@ This is my exercise for leetcode.
 |35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SearchInsertPosition/solution.cpp) | Easy |
 |48  | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RotateImage/solution.cpp) | Medium |
 |53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MaximumSubarray/solution.cpp) | Easy |
+|55  | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/JumpGame/solution.cpp) | Medium |
 |58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/LengthofLastWord/solution.cpp) | Easy |
 |66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/PlusOne/solution.cpp) | Easy |
 |67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/AddBinary/solution.cpp) | Easy |
 |70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/ClimbingStairs/solution.cpp) | Easy |
+|74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/Searcha2DMatrix/solution.cpp) | Medium |
 |77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/Combinations/solution.cpp) | Medium |
 |78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/Subsets/solution.cpp) | Medium |
+|83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/RemoveDuplicatesfromSortedList/solution.cpp) | Easy |
 |88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/MergeSortedArray/solution.cpp) | Easy |
 |94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/BinaryTreeInorderTraversal/solution.cpp) | Medium |
 |100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution.cpp](https://github.com/senlinzhan/algorithms/blob/master/algorithms/SameTree/solution.cpp) | Easy |
